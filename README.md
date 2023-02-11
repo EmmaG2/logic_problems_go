@@ -1,7 +1,8 @@
 # Logic problems
 En este repositorio, estaré subiendo algunos ejercicios típicos de programación en el lenguaje  [golang.](https://go.dev/)
-
 tratando de usar buenas prácticas, clean architecture y clean code.
+
+![pet](https://miro.medium.com/max/563/1*r82neH261ZPl7sVcHQb05Q.png)
 
 # Ejercicios
 La lógica de todos los ejercicios, se encuentran en la carpeta ```problems```

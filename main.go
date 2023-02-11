@@ -1,6 +1,6 @@
 package main
 
-import "github.com/logic_problems_go/problems"
+import problems "github.com/logic_problems_go/problems/matriz"
 
 func main() {
 
