@@ -32,4 +32,5 @@ func Mostrar_matriz(array *[3][3]int) {
 		}
 		fmt.Print("\n")
 	}
+
 }

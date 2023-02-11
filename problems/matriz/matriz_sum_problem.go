@@ -20,4 +20,5 @@ func Initialize_matriz_diagonal_sum() {
 	result := logic.Calcular_suma_diagonal(&matrix)
 
 	fmt.Printf("Resultado de la suma de la diagonal: %d\n", result)
+
 }
